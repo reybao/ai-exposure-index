@@ -1,0 +1,26 @@
+# Raw public inputs: downloaded by `make data`, not committed
+data/raw/*
+!data/raw/.gitkeep
+
+# Licensed data and anything built from it: NEVER commit
+data/private/*
+!data/private/README.md
+output/private/*
+!output/private/.gitkeep
+
+# Interactive or data-embedding outputs
+*.html
+*.ipynb
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+*.egg-info/
+.DS_Store
+
+# Videos are built from licensed data: never commit
+*.mp4
+*.gif
+*.mov

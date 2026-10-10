@@ -1,0 +1,13 @@
+{
+  "n_occupations_common": 756,
+  "study_50": {
+    "spearman": 0.8536,
+    "pearson": 0.906,
+    "level_ratio_eloundou_to_anthropic": 2.591
+  },
+  "all_msas": {
+    "n": 393,
+    "spearman": 0.8834
+  },
+  "median_employment_coverage_study": 0.899
+}

@@ -1,0 +1,51 @@
+msa_code,label,in_d3_sample,msa_title,total_employment,exposure_eloundou,exposure_anthropic,covered_employment,n_occupations,coverage_share,rank_eloundou,rank_anthropic
+41940,San Jose,1,"San Jose-Sunnyvale-Santa Clara, CA",1134660.0,0.432777,0.163752,993890.0,538,0.8759,1,1
+47900,Washington DC,1,"Washington-Arlington-Alexandria, DC-VA-MD-WV",3118630.0,0.392254,0.154994,2847730.0,633,0.9131,2,3
+41860,San Francisco,1,"San Francisco-Oakland-Fremont, CA",2405740.0,0.390158,0.147419,2092470.0,622,0.8698,3,11
+42660,Seattle,1,"Seattle-Tacoma-Bellevue, WA",2082610.0,0.383736,0.147499,1865950.0,620,0.896,4,10
+12420,Austin,1,"Austin-Round Rock-San Marcos, TX",1260220.0,0.381756,0.153676,1145010.0,547,0.9086,5,4
+14460,Boston,1,"Boston-Cambridge-Newton, MA-NH",2707940.0,0.378357,0.148457,2447670.0,608,0.9039,6,7
+41620,Salt Lake City,1,"Salt Lake City-Murray, UT",816680.0,0.375072,0.15789,734630.0,555,0.8995,7,2
+19740,Denver,1,"Denver-Aurora-Centennial, CO",1618390.0,0.371855,0.149183,1440340.0,567,0.89,8,5
+12580,Baltimore,1,"Baltimore-Columbia-Towson, MD",1340750.0,0.366399,0.138125,1185680.0,566,0.8843,9,19
+39580,Raleigh,1,"Raleigh-Cary, NC",723590.0,0.366026,0.148486,656680.0,498,0.9075,10,6
+35620,New York,1,"New York-Newark-Jersey City, NY-NJ",9363020.0,0.364375,0.147694,8116540.0,682,0.8669,11,9
+12060,Atlanta,1,"Atlanta-Sandy Springs-Roswell, GA",2871980.0,0.36128,0.14641,2575200.0,605,0.8967,12,12
+25540,Hartford,0,"Hartford-West Hartford-East Hartford, CT",592620.0,0.360732,0.136294,530400.0,510,0.895,13,23
+33460,Minneapolis,1,"Minneapolis-St. Paul-Bloomington, MN-WI",1931660.0,0.360581,0.145971,1683090.0,601,0.8713,14,13
+19100,Dallas-Fort Worth,1,"Dallas-Fort Worth-Arlington, TX",4003820.0,0.359896,0.142282,3650310.0,641,0.9117,15,15
+45300,Tampa,1,"Tampa-St. Petersburg-Clearwater, FL",1442290.0,0.358889,0.147894,1317940.0,573,0.9138,16,8
+37980,Philadelphia,1,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2868720.0,0.353278,0.136631,2556170.0,666,0.891,17,22
+41740,San Diego,1,"San Diego-Chula Vista-Carlsbad, CA",1533290.0,0.352601,0.126692,1334280.0,591,0.8702,18,42
+38900,Portland,1,"Portland-Vancouver-Hillsboro, OR-WA",1213760.0,0.351797,0.130549,1064070.0,609,0.8767,19,35
+31080,Los Angeles,1,"Los Angeles-Long Beach-Anaheim, CA",6199940.0,0.350901,0.132838,5288210.0,651,0.8529,20,26
+19820,Detroit,1,"Detroit-Warren-Dearborn, MI",1909060.0,0.350689,0.128394,1698230.0,599,0.8896,21,39
+40060,Richmond,1,"Richmond, VA",652900.0,0.350561,0.136226,586840.0,533,0.8988,22,24
+38060,Phoenix,1,"Phoenix-Mesa-Chandler, AZ",2343250.0,0.349896,0.141641,2115420.0,559,0.9028,23,16
+33100,Miami,1,"Miami-Fort Lauderdale-West Palm Beach, FL",2782340.0,0.349779,0.145172,2546540.0,598,0.9153,24,14
+15380,Buffalo,1,"Buffalo-Cheektowaga, NY",531990.0,0.347635,0.131649,470610.0,537,0.8846,25,34
+18140,Columbus,1,"Columbus, OH",1085150.0,0.347585,0.132264,964050.0,544,0.8884,26,27
+16740,Charlotte,1,"Charlotte-Concord-Gastonia, NC-SC",1340800.0,0.347374,0.140571,1233730.0,584,0.9201,27,17
+27260,Jacksonville,1,"Jacksonville, FL",756360.0,0.347021,0.138706,698100.0,524,0.923,28,18
+28140,Kansas City,1,"Kansas City, MO-KS",1093430.0,0.346995,0.133997,991040.0,573,0.9064,29,25
+40900,Sacramento,1,"Sacramento-Roseville-Folsom, CA",1066390.0,0.346863,0.129554,921840.0,587,0.8644,30,37
+38300,Pittsburgh,1,"Pittsburgh, PA",1109050.0,0.346697,0.131922,998730.0,589,0.9005,31,32
+41700,San Antonio,1,"San Antonio-New Braunfels, TX",1114520.0,0.346636,0.136966,998260.0,553,0.8957,32,20
+17410,Cleveland,1,"Cleveland, OH",1036780.0,0.345951,0.128133,938620.0,565,0.9053,33,40
+34980,Nashville,1,"Nashville-Davidson--Murfreesboro--Franklin, TN",1096500.0,0.345709,0.132155,990440.0,543,0.9033,34,28
+36420,Oklahoma City,1,"Oklahoma City, OK",669400.0,0.341703,0.131899,618220.0,536,0.9235,35,33
+17140,Cincinnati,1,"Cincinnati, OH-KY-IN",1092300.0,0.3406,0.126544,997420.0,576,0.9131,36,43
+33340,Milwaukee,1,"Milwaukee-Waukesha, WI",819450.0,0.339971,0.131942,722290.0,537,0.8814,37,31
+41180,St. Louis,1,"St. Louis, MO-IL",1339700.0,0.339775,0.132154,1193520.0,588,0.8909,38,29
+16980,Chicago,1,"Chicago-Naperville-Elgin, IL-IN",4473740.0,0.339118,0.132139,4027150.0,633,0.9002,39,30
+36740,Orlando,1,"Orlando-Kissimmee-Sanford, FL",1397600.0,0.337247,0.136877,1290460.0,548,0.9233,40,21
+13820,Birmingham,1,"Birmingham, AL",517920.0,0.337051,0.130133,467560.0,455,0.9028,41,36
+26420,Houston,1,"Houston-Pasadena-The Woodlands, TX",3246360.0,0.337017,0.126888,2920540.0,612,0.8996,42,41
+47260,Virginia Beach,1,"Virginia Beach-Chesapeake-Norfolk, VA-NC",754860.0,0.334554,0.123002,679470.0,526,0.9001,43,45
+39300,Providence,1,"Providence-Warwick, RI-MA",706440.0,0.334352,0.129019,630870.0,518,0.893,44,38
+26900,Indianapolis,1,"Indianapolis-Carmel-Greenwood, IN",1096770.0,0.32949,0.123709,992710.0,570,0.9051,45,44
+31140,Louisville,0,"Louisville/Jefferson County, KY-IN",686050.0,0.325423,0.122374,609670.0,519,0.8887,46,46
+24340,Grand Rapids,1,"Grand Rapids-Wyoming-Kentwood, MI",561410.0,0.324653,0.116917,504810.0,518,0.8992,47,47
+32820,Memphis,1,"Memphis, TN-MS-AR",620100.0,0.319063,0.114258,554750.0,517,0.8946,48,48
+29820,Las Vegas,1,"Las Vegas-Henderson-North Las Vegas, NV",1119360.0,0.300235,0.109288,1031960.0,513,0.9219,49,49
+40140,Riverside,1,"Riverside-San Bernardino-Ontario, CA",1695430.0,0.294488,0.097578,1464770.0,599,0.864,50,50
